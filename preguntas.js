@@ -1872,6 +1872,7 @@ const bancoDePreguntas = [
     "id": 144,
     "tipo": "teoria",
     "texto": "En la metodologia SLP, de quin estudi previ s'obtenen les dades de quantitats de material per analitzar els fluxos?",
+    "opciones": [
     "a) De l'estudi de mercat",
     "b) Del Diagrama de Fluxos i del Balanç de Matèria realitzats prèviament",
     "c) Del conveni col·lectiu",
