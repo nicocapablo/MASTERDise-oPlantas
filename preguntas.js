@@ -975,10 +975,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "Un procés (com 'Cuinar') pot requerir diverses màquines (com planxa i extractor), i al revés, una màquina pot realitzar diversos processos."
-  }
-]
-[
-  {
+   }, {
     "id": 76,
     "tipo": "teoria",
     "texto": "Segons el RD 486/1997, quin és el volum mínim no ocupat que ha de tenir un treballador en un local de treball?",
@@ -1302,10 +1299,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "d",
     "feedback": "El diagrama de màquines és el més detallat i l'últim, ja que necessita que prèviament s'hagi definit què es fa (blocs) i quant es produeix (fluxos)."
-  }
-]
-[
-  {
+   }, {
     "id": 101,
     "tipo": "teoria",
     "texto": "Quin és l'objecte principal de la distribució en planta (layout)?",
@@ -1629,10 +1623,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "Cal representar els equips mòbils en posicions clau per assegurar que els passadissos i espais de maniobra són suficients[cite: 92]."
-  }
-]
-[
-  {
+   }, {
     "id": 126,
     "tipo": "teoria",
     "texto": "Quina és la distància mínima requerida lliure d'obstacles per a la maniobra d'un camió de gran tonatge davant d'un moll de càrrega?",
@@ -1956,10 +1947,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "Un cop avaluades les propostes amb els criteris triats, se selecciona la millor per desenvolupar el projecte d'execució final."
-  }
-]
-[
-  {
+   }, {
     "id": 151,
     "tipo": "teoria",
     "texto": "Quins són els tres elements bàsics que formen el conegut 'Triangle del foc'?",
@@ -2283,10 +2271,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "Els detectors tèrmics o termovelocimètrics reaccionen quan se supera una temperatura fixa o quan la temperatura puja massa ràpid en poc temps."
-  }
-]
-[
-  {
+   }, {
     "id": 176,
     "tipo": "teoria",
     "texto": "Quina d'aquestes conseqüències s'esmenta en el tema com un dany derivat d'un incendi industrial?",
@@ -2610,10 +2595,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "En el document es defineix l'incendi específicament com un 'foc incontrolat en espai i temps'."
-  }
-]
-[
-  {
+   }, {
     "id": 201,
     "tipo": "teoria",
     "texto": "Segons l'estudi d'UNESPA durant l'any 2018 recollit al document, amb quina freqüència aproximada es produïa un incendi industrial a Espanya?",
@@ -2937,10 +2919,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "La protecció passiva juga un paper preventiu i representa mesures constructives que permeten que l'estructura resisteixi durant un temps determinat."
-  }
-]
-[
-  {
+   }, {
     "id": 201,
     "tipo": "teoria",
     "texto": "Segons l'estudi d'UNESPA durant l'any 2018 recollit al document, amb quina freqüència aproximada es produïa un incendi industrial a Espanya?",
@@ -3264,10 +3243,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "La protecció passiva juga un paper preventiu i representa mesures constructives que permeten que l'estructura resisteixi durant un temps determinat."
-  }
-]
-[
-  {
+   }, {
     "id": 251,
     "tipo": "teoria",
     "texto": "Segons el document, quins són els elements constructius més crítics en un edifici industrial?",
@@ -3591,10 +3567,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "Segons l'apartat final d'usos, els forjats reticulars s'utilitzen en edificis residencials moderns de grans dimensions o alçades on hi ha llums i càrregues majors."
-  }
-]
-[
-  {
+   }, {
     "id": 276,
     "tipo": "teoria",
     "texto": "Segons el document, què és el que condiciona les dimensions de la planta d'un edifici industrial i, en conseqüència, el tipus d'estructura?",
@@ -3918,10 +3891,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "La xapa té uns relleus o greons que 'morden' el formigó un cop s'ha endurit, assegurant que els dos materials col·laborin sense lliscar."
-  }
-]
-[
-  {
+   }, {
     "id": 301,
     "tipo": "teoria",
     "texto": "Segons el document, quina és la tendència actual respecte a la importància de la localització de les instal·lacions industrials?",
@@ -4245,10 +4215,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "El clima industrial fa referència a l'acceptació social, la tradició obrera, la facilitat administrativa o la conflictivitat laboral d'una localització en concret."
-  }
-]
-[
-  {
+   }, {
     "id": 326,
     "tipo": "teoria",
     "texto": "Segons el text, quin efecte té l'augment de la distància sobre el cost de transport?",
@@ -4572,10 +4539,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "El mètode no busca gastar poc ni ingressar molt per separat, sinó trobar la combinació de tots dos factors que doni el benefici més gran per a l'empresa."
-  }
-]
-[
-  {
+   }, {
     "id": 351,
     "tipo": "teoria",
     "texto": "Segons la definició del text, què és un polígon industrial?",
@@ -4899,10 +4863,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "Com que es dediquen a moure mercaderies d'un lloc a un altre, la connectivitat ràpida amb autopistes i eixos viaris és indispensable."
-  }
-]
-[
-  {
+   }, {
     "id": 376,
     "tipo": "teoria",
     "texto": "Quina d'aquestes afirmacions descriu millor una 'instal·lació bàsica d'accessibilitat' en un polígon segons el text?",
@@ -5226,10 +5187,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "En aquests espais conviuen des de grans laboratoris de multinacionals fins a petites empreses derivades de la universitat (spin-offs)."
-  }
-]
-[
-  {
+   }, {
     "id": 401,
     "tipo": "teoria",
     "texto": "Quins són els quatre blocs principals que s'estudien en aquest tema segons l'índex?",
@@ -5553,10 +5511,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "a",
     "feedback": "A la pàgina 26 el document introdueix la secció 'Sol·licitud de llicències i execució de l'obra' abans d'acabar el contingut visible."
-  }
-]
-[
-  {
+   }, {
     "id": 426,
     "tipo": "teoria",
     "texto": "Segons el document, quina és la definició que es dóna de 'Plànol d'ordenació'?",
